@@ -1,0 +1,35 @@
+.jumbotron{
+	background-color: #fff;
+}
+.btn-primary{
+	background-color: white;
+	box-shadow: grey;
+}
+.panel-footer{
+	background-color: #fff;
+	text-align: center;
+}
+.titulo{
+	color: whitesmoke;
+	color-scheme: grey;
+	text-align: center;
+}
+.criadores{
+	color: whitesmoke;
+	text-align: center;
+}
+.quadro{
+	color: black;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	margin:  auto;
+}
+.text{
+	background-color: rgba(255,255,255,0.8);
+	width: 600px;
+	height: 100px;
+	text-align: center;
+	margin:  auto;
+
+}
